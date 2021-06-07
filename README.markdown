@@ -4,4 +4,4 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/KOGIRO/pen/oNZNgd
 
 ## Images
 
-[!image not available](https://github.com/KOGIR0/pomodoro-clock/blob/main/imgs/pc.png)
+![image not available](https://github.com/KOGIR0/pomodoro-clock/blob/main/imgs/pc.png)
